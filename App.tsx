@@ -13,6 +13,7 @@ import {Text} from 'react-native';
 function App(): JSX.Element {
   return (
     <Text> App</Text>
+    // by bhumi
   );
 }
 
