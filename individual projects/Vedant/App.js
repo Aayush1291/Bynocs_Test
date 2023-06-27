@@ -1,12 +1,13 @@
-import { View, Text } from 'react-native'
-import React from 'react'
+import React from 'react';
+import LoginPage from './LoginPage';
 
 const App = () => {
   return (
-    <View>
-      <Text>App</Text>
-    </View>
-  )
-}
+    <div>
+      <LoginPage />
+    </div>
+  );
+};
 
-export default App
+export default App;
+
